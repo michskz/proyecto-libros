@@ -1,0 +1,17 @@
+
+
+body{
+    background-color: black;
+    color: white;  
+}
+.bg-navbar-red{
+    background-color: red;
+}
+.card{
+    font-size: 16px;
+}
+
+.card{
+    background-color: rgb(11, 88, 88);
+    color: white;
+}

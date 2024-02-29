@@ -1,0 +1,23 @@
+body{
+    padding: 50px;
+    background-image: url(https://64.media.tumblr.com/4c2c4d02554c8ec7e16b7ee3187c469d/tumblr_o0zb6iTjuy1ufc2rfo1_500.gif);
+    background-position: 90% ; /*esto determina que tan a la izquierda comenzará*/
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: white;
+    text-align: center;
+}
+h1{
+
+    color: rgb(195, 0, 255);
+}
+
+.card{
+    background-color: rgb(97, 12, 177);
+    color: white;
+}
+
+.accordion-item{
+    background-color: rgb(91, 43, 180);
+}
